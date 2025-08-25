@@ -35,5 +35,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Subh09-sk/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/Subh09-sk/leetcode/tree/master/0443-string-compression) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Subh09-sk/leetcode/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Subh09-sk/leetcode/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Subh09-sk/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
