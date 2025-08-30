@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Subh09-sk/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Subh09-sk/leetcode/tree/master/0014-longest-common-prefix) |
+| [0151-reverse-words-in-a-string](https://github.com/Subh09-sk/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Subh09-sk/leetcode/tree/master/0443-string-compression) |
 ## Array
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Subh09-sk/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Subh09-sk/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/Subh09-sk/leetcode/tree/master/0443-string-compression) |
 ## Linked List
