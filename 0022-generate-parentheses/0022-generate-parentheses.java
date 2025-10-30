@@ -1,0 +1,19 @@
+class Solution {
+    public List<String> generateParenthesis(int n) {
+        List<String> res = new ArrayList();
+        backtrack(res , "",0,0,n);
+        return res ;
+    }
+    public void backtrack(List<String> res , String curr , int open , int close , int max){
+        if(curr.length()==max*2){
+            res.add(curr);
+            return ;
+        }
+        if(open < max){
+            backtrack(res ,curr+"(",open+1 , close , max);
+        }
+        if(open > close){
+            backtrack(res , curr+")" , open , close+1 , max);
+        }
+    }
+}
