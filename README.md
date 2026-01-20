@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Subh09-sk/leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Subh09-sk/leetcode/tree/master/0070-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Subh09-sk/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Subh09-sk/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Subh09-sk/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Subh09-sk/leetcode/tree/master/0268-missing-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Subh09-sk/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
