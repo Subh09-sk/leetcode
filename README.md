@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Subh09-sk/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Subh09-sk/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Subh09-sk/leetcode/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/Subh09-sk/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Subh09-sk/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/Subh09-sk/leetcode/tree/master/1929-concatenation-of-array) |
 ## Trie
@@ -95,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Subh09-sk/leetcode/tree/master/1929-concatenation-of-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Subh09-sk/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Subh09-sk/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
