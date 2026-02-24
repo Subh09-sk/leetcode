@@ -24,14 +24,14 @@ class Solution {
         if (node == null)
             return 0;
         
-        // Form the binary number
+        
         currentSum = currentSum * 2 + node.val;
         
-        // If leaf node, return the value
+        
         if (node.left == null && node.right == null)
             return currentSum;
         
-        // Recur left and right
+        
         return dfs(node.left, currentSum) + 
                dfs(node.right, currentSum);
     }
