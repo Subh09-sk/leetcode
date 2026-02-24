@@ -104,4 +104,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Subh09-sk/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Tree
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Subh09-sk/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Subh09-sk/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Binary Tree
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Subh09-sk/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 <!---LeetCode Topics End-->
