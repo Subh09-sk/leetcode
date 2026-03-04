@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Subh09-sk/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Subh09-sk/leetcode/tree/master/0443-string-compression) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Subh09-sk/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1768-merge-strings-alternately](https://github.com/Subh09-sk/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Subh09-sk/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Subh09-sk/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/Subh09-sk/leetcode/tree/master/0443-string-compression) |
+| [1768-merge-strings-alternately](https://github.com/Subh09-sk/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Linked List
 |  |
 | ------- |
