@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Subh09-sk/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Subh09-sk/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Subh09-sk/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Subh09-sk/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1929-concatenation-of-array](https://github.com/Subh09-sk/leetcode/tree/master/1929-concatenation-of-array) |
 ## Trie
 |  |
